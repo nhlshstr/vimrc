@@ -14,6 +14,7 @@ Plugin 'gmarik/Vundle.vim'
 " add all your plugins here (note older versions of Vundle
 " used Bundle instead of Plugin)
 
+Plugin 'itchyny/lightline.vim'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'vim-scripts/indentpython.vim'
@@ -22,7 +23,6 @@ Plugin 'nvie/vim-flake8'
 Plugin 'preservim/nerdtree'
 Plugin 'jistr/vim-nerdtree-tabs'
 Plugin 'tpope/vim-fugitive' "For git commands
-Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 Plugin 'sonph/onehalf', {'rtp': 'vim/'}
 Plugin 'kien/ctrlp.vim' "Super searching
 " ...
